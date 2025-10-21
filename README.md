@@ -7,9 +7,11 @@ El comando <i>"git config --global user.email"</i> nos permite asignar un correo
 El comando <i>"git config --global core.editor"</i> nos permite asignarle a git un editor de codigo predeterminado.<br>
 El comando <i>"git config --global -e"</i> nos permite abrir el editor de codigo visualizando las configuraciones previas.<br>
 El comando <i>"git config --global  core.autocrlf"</i> se le asigna un valor verdadero a los caracteres, cr (Carriage return), lf (line feed).<br>
+El comando <i>"clear"</i> nos permite limpiar la consola para mejor claridad de los comandos tambien se puede usar ctrl +l.<br>
 <img width="536" height="279" alt="configurcion gl" src="https://github.com/user-attachments/assets/24e9e991-7093-41e5-babe-043ebd099956" />
 
 <img width="500" height="241" alt="image" src="https://github.com/user-attachments/assets/8940b38b-531d-44af-8937-d2216ecc441d" />
+<img width="420" height="47" alt="image" src="https://github.com/user-attachments/assets/501f4866-d228-43d5-99bc-197c8c4978cd" />
 
 El Comando <i>"ls"</i> nos da la lista completa de los archivos que se encuentren en la direecion en la que se encuentra.<br>
 <img width="679" height="406" alt="image" src="https://github.com/user-attachments/assets/7b5c24ff-d099-4b20-b17c-9f70887e1b3e" />
@@ -35,5 +37,7 @@ El comando <i>"git init"</i> nos permite inicializar el proyecto en git.<br>
 
 El comando <i>"ls -a"</i> nos muestra todos los archivos que estan ocultos.<br>
 <img width="401" height="57" alt="image" src="https://github.com/user-attachments/assets/8850b943-d05f-4a16-8ea3-a293ea17b14a" />
+
+
 
 
