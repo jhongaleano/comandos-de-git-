@@ -57,3 +57,18 @@ El comando <i>"git restore --staged"</i> nos permite restaurar un archivo elimin
 
 El comando <i>"git restore"</i> nos permite recuperar un archivo por completo.<br>
 <img width="411" height="164" alt="image" src="https://github.com/user-attachments/assets/b3c37c43-79af-4efa-bf44-6a904fe869b9" />
+
+El comando <i>"mv"</i> nos permite mover o cambiarle el nombre a un archivo.<br> 
+<img width="407" height="90" alt="image" src="https://github.com/user-attachments/assets/f9838d6f-8f9f-41ce-bb5e-ac3a29800ae4" />
+
+El comando <i>"git log"</i> nos permite ver todo el historial de los cambios que se han hecho.<br>
+<img width="421" height="147" alt="image" src="https://github.com/user-attachments/assets/99414b0b-9801-4fcc-bedb-8483f10a513d" />
+
+El comando <i>"git branch"</i> nos permite saber en que rama nos encontramos.<br>
+<img width="411" height="90" alt="image" src="https://github.com/user-attachments/assets/e1b252e7-e5b6-4f4c-99fe-92d0486ce43f" />
+
+El comando <i>"git  checkout -b"</i> nos permite crear una nueva rama e la cual trabajar.<br>
+<img width="416" height="121" alt="image" src="https://github.com/user-attachments/assets/eea67fbc-8584-4715-b30f-4af829c69ab3" />
+
+El comando <i>"cat"</i> nos permite ver todo el contenido del archivo seleccionado.<br>
+<img width="420" height="64" alt="image" src="https://github.com/user-attachments/assets/93bd1558-1545-4ac5-aad3-2943d3644c89" />
