@@ -38,6 +38,22 @@ El comando <i>"git init"</i> nos permite inicializar el proyecto en git.<br>
 El comando <i>"ls -a"</i> nos muestra todos los archivos que estan ocultos.<br>
 <img width="401" height="57" alt="image" src="https://github.com/user-attachments/assets/8850b943-d05f-4a16-8ea3-a293ea17b14a" />
 
+El coamndo <i>"git status"</i> nos permite ver el estado del directorio y ver que archivos se estan siguiendo.<br>
+<img width="564" height="161" alt="image" src="https://github.com/user-attachments/assets/14b5a0bf-fcee-4c0e-b62c-deea235b9805" />
 
 
+El comando <i>"git add"</i> nos permite decirle a git que siga el documento o pasa a la etapa stage.<br>
+<img width="420" height="181" alt="image" src="https://github.com/user-attachments/assets/99fc8d54-7b05-4277-969c-e5a12441d8a2" />
 
+El comando <i>"git commit"</i> nos permite comprometer los archivos que estan siendo seguidos.<br>
+<img width="409" height="95" alt="image" src="https://github.com/user-attachments/assets/29e93bd1-fb52-473c-b58a-3fe5deeca8a9" />
+
+El comando <i>"git rm"</i> nos permite eliminar un archivo del directorio.<br>
+<img width="528" height="183" alt="image" src="https://github.com/user-attachments/assets/8dedf14f-e701-44e6-80cd-f137378980c9" />
+
+El comando <i>"git restore --staged"</i> nos permite restaurar un archivo eliminado de la fase stage.<br>
+<img width="535" height="180" alt="image" src="https://github.com/user-attachments/assets/515add74-57f5-41ce-b683-1d8674b74a0e" />
+
+
+El comando <i>"git restore"</i> nos permite recuperar un archivo por completo.<br>
+<img width="411" height="164" alt="image" src="https://github.com/user-attachments/assets/b3c37c43-79af-4efa-bf44-6a904fe869b9" />
